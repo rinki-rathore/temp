@@ -52,4 +52,4 @@ schema:
         InstanceType:
           description: "EC2 instance type"
           type: string
-          default: "c4.xlarge"
+          default: "t3a.micro"
