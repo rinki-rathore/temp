@@ -9,4 +9,4 @@ spec:
   DesiredCapacity: 1
   MaxSize: 6
   ECSAMI: /aws/service/ecs/optimized-ami/amazon-linux-2/recommended/image_id
-  InstanceType: c4.xlarge
+  InstanceType: t3a.micro
